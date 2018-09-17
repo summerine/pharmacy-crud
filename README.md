@@ -3,7 +3,7 @@
 This simple program is created for final exam assignment.
 
 The CRUD contains several files: 
-* Data Index (which includes medicine information)
+* Data Index (which covers medicine information)
 * Data Tipe (which covers the type of medicine brand; Generik or Dagang)
 * Data Golongan (which covers the categories of the medicine; Bebas, Bebas Terbatas, Keras, Psikotropika, Narkotika )
 * Data Pegawai (which covers the employees information)
