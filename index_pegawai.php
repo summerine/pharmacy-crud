@@ -35,7 +35,6 @@
       <div class="container-fluid">
       <div class="row">
         <a href="#addnew" data-toggle="modal" class="btn btn-primary"><span class="glyphicon glyphicon-plus"></span> Add Pegawai</a>
-        <a href="pegawai_pdf.php" class="btn btn-success pull-right"><span class="glyphicon glyphicon-print"></span> PDF</a>
       </div>
     </div>
       <div class="container-fluid">
