@@ -13,8 +13,8 @@ The CRUD contains several files:
 
 # Getting Started
 ## Prerequisites 
-Importing the apotek.sql into the database
-Configuring the connection.php to suit your local web server 
+* Importing the apotek.sql into the database
+* Configuring the connection.php to suit your local web server 
 
 ## Built With
 * [Boostrap 3](https://getbootstrap.com/docs/3.3/getting-started/) - The web framework used
