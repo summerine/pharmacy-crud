@@ -17,7 +17,7 @@ The CRUD contains several files:
 * Configuring the connection.php to suit your local web server 
 
 ## Built With
-* [Boostrap 3](https://getbootstrap.com/docs/3.3/getting-started/) - The web framework used
+* [Bootstrap 3](https://getbootstrap.com/docs/3.3/getting-started/) - The web framework used
 * [MySQLi ](http://php.net/manual/en/book.mysqli.php) - The database used 
 * [PHP 7 ](http://php.net/manual/en/migration70.new-features.php) - The scripting language used 
 * [jQuery](https://jquery.com/) - The javascript library used 
